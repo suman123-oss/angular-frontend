@@ -1,5 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { UsersList } from './users-list/users-list';
 
 @Component({
   selector: 'app-root',
